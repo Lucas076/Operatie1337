@@ -37,7 +37,7 @@ Objective: Wil jij het wachtwoord van de zip kraken? Dan het bestand uitpakken e
 ## 3. Vind het verdachte wallet adres
 Objective: Analyseer dit transactiebestand. Stuur mij het adres van de verdachte wallet.
 
-1. Analyseer het bestand met de naam `` en zoek naar repetitieve patronen. Dit kan prima met behulp van ChatGPT, Claude of Gemini.
+1. Analyseer het bestand met de naam `Transactions-4b5b42b6a830.csv` en zoek naar repetitieve patronen. Dit kan prima met behulp van ChatGPT, Claude of Gemini.
 2. Na het analyseren kom je een veelkomen patroon tegen, in mijn geval naar wallet adres: `...A6C1E9D`.
 3. Het antwoord was in mijn geval: `...A6C1E9D`.
 
